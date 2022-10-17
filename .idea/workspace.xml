@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3e73b5-c7f4-4228-9cc1-7bd637e97f73" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/EpicDoubleHashMap.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/ExistingKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/MissingKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/RepeatingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/WrongTypeException.java" afterDir="false" />
+>>>>>>> origin/DevelopMartin
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/Principal.java" afterDir="false" />
     </list>
@@ -33,10 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/PIL/Desktop/Git/RepoTrabajo2"
+>>>>>>> origin/DevelopMartin
   }
 }</component>
   <component name="RunManager">

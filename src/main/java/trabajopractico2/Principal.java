@@ -2,6 +2,7 @@ package trabajopractico2;
 
 public class Principal {
     public static void main(String[] args) {
+<<<<<<< HEAD
         EpicDoubleHashMap<Integer, Integer, String> map = new EpicDoubleHashMap<>();
 
         map.addFirstType(1, 10);
@@ -15,6 +16,8 @@ public class Principal {
         map.removeTwoValues(3);
         System.out.println(map.getMap1());
         System.out.println(map.getMap2());
+=======
+>>>>>>> origin/DevelopMartin
 
     }
 }
