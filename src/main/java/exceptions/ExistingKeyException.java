@@ -1,4 +1,4 @@
-package trabajopractico2;
+package exceptions;
 
 public class ExistingKeyException extends Exception {
     public ExistingKeyException(String message) {

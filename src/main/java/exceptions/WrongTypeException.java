@@ -1,4 +1,4 @@
-package trabajopractico2;
+package exceptions;
 
 public class WrongTypeException extends Exception{
     public WrongTypeException(String message) {

@@ -1,4 +1,4 @@
-package trabajopractico2;
+package exceptions;
 
 public class MissingKeyException extends Exception{
     public MissingKeyException(String message) {

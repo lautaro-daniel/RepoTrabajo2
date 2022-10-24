@@ -1,4 +1,4 @@
-package trabajopractico2;
+package exceptions;
 
 public class RepeatingException extends Exception{
     public RepeatingException(String message) {

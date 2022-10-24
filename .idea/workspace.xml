@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3e73b5-c7f4-4228-9cc1-7bd637e97f73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelclasses/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/modelclasses/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/EpicDoubleHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/EpicDoubleHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trabajopractico2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/EpicDoubleHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modelclasses/EpicDoubleHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/ExistingKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/ExistingKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/MissingKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/MissingKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/RepeatingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/RepeatingException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trabajopractico2/WrongTypeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptions/WrongTypeException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,16 +45,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/PIL/IdeaProjects/genericclass"
+    "last_opened_file_path": "C:/Users/PIL/IdeaProjects/genericclass",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="modelclasses" />
+      <recent name="exceptions" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trabajopractico2.Main" />
-      <module name="TrabajoPractico2-PIL" />
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="RepoTrabajo2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trabajopractico2.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
